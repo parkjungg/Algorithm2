@@ -9,7 +9,6 @@
 
     <ItemGroup>
       <Folder Include="Gold\" />
-      <Folder Include="Silver\" />
     </ItemGroup>
 
 </Project>
