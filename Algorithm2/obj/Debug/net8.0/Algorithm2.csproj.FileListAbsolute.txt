@@ -12,3 +12,4 @@
 /Users/park/RiderProjects/Algorithm2/Algorithm2/obj/Debug/net8.0/Algorithm2.pdb
 /Users/park/RiderProjects/Algorithm2/Algorithm2/obj/Debug/net8.0/Algorithm2.genruntimeconfig.cache
 /Users/park/RiderProjects/Algorithm2/Algorithm2/obj/Debug/net8.0/ref/Algorithm2.dll
+/Users/park/RiderProjects/Algorithm2/Algorithm2/obj/Debug/net8.0/Algorithm2.sourcelink.json
