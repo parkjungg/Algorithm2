@@ -8,10 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fae83ab-941a-4870-b4ad-1be05edfac4b" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm2/Silver/Num13335.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm2/Silver/Num1743.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Algorithm2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Algorithm2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm2/Algorithm2.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/Algorithm2.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm2/Silver/Num13335.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/Silver/Num13335.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm2/bin/Debug/net8.0/Algorithm2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/bin/Debug/net8.0/Algorithm2.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm2/bin/Debug/net8.0/Algorithm2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/bin/Debug/net8.0/Algorithm2.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.AssemblyInfo.cs" afterDir="false" />
@@ -47,21 +47,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET 프로젝트.Algorithm2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET 프로젝트.Algorithm2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Algorithm2" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -93,6 +93,8 @@
       <workItem from="1748574345781" duration="168000" />
       <workItem from="1748574623752" duration="10000" />
       <workItem from="1748588149655" duration="3669000" />
+      <workItem from="1748601977926" duration="767000" />
+      <workItem from="1748666558897" duration="2741000" />
     </task>
     <servers />
   </component>
