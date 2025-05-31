@@ -1,5 +1,6 @@
 namespace Algorithm2.Gold;
 
+// Gold 5 다각형의 면적
 public class Num2166
 {
     public static void PolygonArea()

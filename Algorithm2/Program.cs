@@ -5,6 +5,6 @@ public class Algorithm
 {
     public static void Main(string[] args)
     {
-        Num2166.PolygonArea();
+        Num1038.DecreasingNumber();
     }
 }
