@@ -1,9 +1,10 @@
-﻿using Algorithm2.Silver;
+﻿using Algorithm2.Gold;
+using Algorithm2.Silver;
 
 public class Algorithm
 {
     public static void Main(string[] args)
     {
-        Num1743.Garbage();
+        Num2166.PolygonArea();
     }
 }

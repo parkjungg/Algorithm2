@@ -1,5 +1,6 @@
 namespace Algorithm2.Silver;
 
+// Silver 1
 public class Num13335
 {
     public static void Bridge()

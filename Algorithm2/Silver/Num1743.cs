@@ -1,5 +1,7 @@
 namespace Algorithm2.Silver;
 
+
+// Silver 1
 public class Num1743
 {
     private static int[,] ground;
