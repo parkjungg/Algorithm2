@@ -5,6 +5,6 @@ public class Algorithm
 {
     public static void Main(string[] args)
     {
-        Num1038.DecreasingNumber();
+        Num16953.AtoB();
     }
 }
