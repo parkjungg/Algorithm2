@@ -5,6 +5,6 @@ public class Algorithm
 {
     public static void Main(string[] args)
     {
-        Num16953.AtoB();
+        Num7569.Tomato();
     }
 }

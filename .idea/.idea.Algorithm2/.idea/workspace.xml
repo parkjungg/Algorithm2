@@ -8,9 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fae83ab-941a-4870-b4ad-1be05edfac4b" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm2/Gold/Num11000.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm2/Gold/Num12904.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm2/Silver/Num16953.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm2/Gold/Num1759.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm2/Gold/Num2212.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm2/Gold/Num6593.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm2/Gold/Num7569.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Algorithm2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Algorithm2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm2/bin/Debug/net8.0/Algorithm2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/bin/Debug/net8.0/Algorithm2.dll" afterDir="false" />
@@ -100,7 +101,8 @@
       <workItem from="1748702630249" duration="2710000" />
       <workItem from="1748761760492" duration="2562000" />
       <workItem from="1748764790148" duration="2371000" />
-      <workItem from="1748770637562" duration="1096000" />
+      <workItem from="1748770637562" duration="1175000" />
+      <workItem from="1748845472176" duration="9471000" />
     </task>
     <servers />
   </component>
