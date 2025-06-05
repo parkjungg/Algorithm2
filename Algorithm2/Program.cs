@@ -5,6 +5,6 @@ public class Algorithm
 {
     public static void Main(string[] args)
     {
-        Num2096.GoDown();
+        Num2294.Coin2();
     }
 }
