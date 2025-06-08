@@ -5,6 +5,6 @@ public class Algorithm
 {
     public static void Main(string[] args)
     {
-        Num2294.Coin2();
+        Num1193.FindFountain();
     }
 }

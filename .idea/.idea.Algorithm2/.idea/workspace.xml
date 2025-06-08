@@ -8,19 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fae83ab-941a-4870-b4ad-1be05edfac4b" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm2/Gold/Num2294.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Algorithm2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Algorithm2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm2/bin/Debug/net8.0/Algorithm2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/bin/Debug/net8.0/Algorithm2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm2/bin/Debug/net8.0/Algorithm2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/bin/Debug/net8.0/Algorithm2.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/ref/Algorithm2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/ref/Algorithm2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/refint/Algorithm2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/refint/Algorithm2.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +91,8 @@
       <workItem from="1748770637562" duration="1175000" />
       <workItem from="1748845472176" duration="9745000" />
       <workItem from="1748935115508" duration="6907000" />
-      <workItem from="1749130784456" duration="1360000" />
+      <workItem from="1749130784456" duration="1575000" />
+      <workItem from="1749198341852" duration="1342000" />
     </task>
     <servers />
   </component>
