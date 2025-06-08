@@ -5,6 +5,6 @@ public class Algorithm
 {
     public static void Main(string[] args)
     {
-        Num1193.FindFountain();
+        Num2563.ColorPaper();
     }
 }
