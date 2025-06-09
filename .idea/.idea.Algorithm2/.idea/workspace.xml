@@ -8,9 +8,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fae83ab-941a-4870-b4ad-1be05edfac4b" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/Algorithm2/Silver/Num1026.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm2/Silver/Num10866.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm2/Silver/Num18258.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Algorithm2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Algorithm2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm2/bin/Debug/net8.0/Algorithm2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/bin/Debug/net8.0/Algorithm2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm2/bin/Debug/net8.0/Algorithm2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/bin/Debug/net8.0/Algorithm2.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/Algorithm2.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/ref/Algorithm2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/ref/Algorithm2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/refint/Algorithm2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm2/obj/Debug/net8.0/refint/Algorithm2.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +34,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/74b2ad5ea433da71a378b52e2fe95faf8d8772e48485484656e951f5625678/LinkedList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/dca79d6014ed19b63322d3503bc62e35795a5cb8d051f716b0141529a2964ec/Array.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -93,6 +109,8 @@
       <workItem from="1748935115508" duration="6907000" />
       <workItem from="1749130784456" duration="1575000" />
       <workItem from="1749198341852" duration="1342000" />
+      <workItem from="1749377249385" duration="4758000" />
+      <workItem from="1749457640256" duration="4338000" />
     </task>
     <servers />
   </component>
