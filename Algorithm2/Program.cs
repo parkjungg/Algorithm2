@@ -5,6 +5,6 @@ public class Algorithm
 {
     public static void Main(string[] args)
     {
-        Num1026.Treasure();
+        Num2559.NumberSequence();
     }
 }
