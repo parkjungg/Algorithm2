@@ -5,6 +5,6 @@ public class Algorithm
 {
     public static void Main(string[] args)
     {
-        Num2559.NumberSequence();
+        Num1965.PutInBox();
     }
 }
